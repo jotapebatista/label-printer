@@ -32,7 +32,7 @@
 		"devUrl": "http://localhost:3000"
 	},
 	"productName": "Barix - Label Printer App",
-	"version": "1.1.3",
+	"version": "1.2.0",
 	"identifier": "com.jotapebatista.labelprinterapp",
 	"plugins": {
 		"updater": {
@@ -44,7 +44,7 @@
 			"endpoints": [
 				"https://github.com/jotapebatista/label-printer-app/releases/latest/download/latest.json"
 			],
-			"pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEY4REY0Nzg5QzNFQjM0RgpSV1JQc3o2Y2VQU05ENmJ2TVZQcWsxQVpaZlJXQjZCZkJBNC9URWU3bmU1RnNia05zMUdRaVBtbQo=%"
+			"pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5NTFwVVNSelVnc3Y5QzVGbnpDYTVQek9TL1dhY1o1MFNoc0lGR1AvSHE2Z0FBQkFBQUFBQUFBQUFBQUlBQUFBQXp0YklrWkxWZVlUQ1FyNU45aFVRVnNlMmZrZ0QzMlVjK0hEK2x1aUVCSWVYVjVmNGhhend4endMZnp0eGg0K01SZW9nVCt4eXVxalFNRS9MU3pYclhQcjZkOVB2ZUhqdWVKbm5HNnRsSkxsZk1qaC8wbE1sRk9WOTRHZ1dLV3RQY1ZWaG5sWnJPZEE9Cg=="
 		}
 	},
 	"app": {

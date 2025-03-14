@@ -17,6 +17,12 @@ import { ref, onMounted } from "vue";
 import { SettingsOutline } from "@vicons/ionicons5";
 import { NIcon, NButton, NSwitch } from "naive-ui";
 
+import checkForAppUpdates from "~/utils/checkUpdate";
+
+onMounted(() => {
+	checkForAppUpdates();
+})
+
 // Dark mode state
 const darkMode = ref(false);
 

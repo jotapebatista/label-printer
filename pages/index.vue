@@ -191,6 +191,7 @@ const testMode = ref<boolean>(false);
 const chatEl = ref<HTMLElement>();
 let debounceTimer: any = null;
 
+
 const printerOptions = [
 	{ label: "Choose a printer type", value: "" },
 	{ label: "Brother", value: "brother" },

@@ -6,17 +6,12 @@ Printer Label App is a Tauri-based desktop application that allows users to conf
 ## Features
 - **Printer Configuration**: Select the printer brand, IP address, label format, and number of copies.
 - **QR Code Input**: Scan or manually enter QR code data for printing.
-- **Test Mode**: Allows users to test label printing without sending actual print jobs.
 - **Printed Stickers View**: Displays recently printed labels.
 - **Supports Multiple Printer Types**: Compatible with Brother, TSC, and TSC Double Sticker.
 
 ## Installation
-### Prerequisites
-- Ensure you have a supported printer connected to your network.
-- Install the necessary printer drivers (if required by your printer model).
-
 ### Download and Install
-1. Download the latest release from [GitHub](#) (replace with actual link).
+1. Download the latest release [here](https://github.com/jotapebatista/label-printer/releases/latest)
 2. Extract the downloaded file.
 3. Run the executable file to start the application.
 
@@ -34,26 +29,15 @@ Printer Label App is a Tauri-based desktop application that allows users to conf
 4. View the **Printed Stickers** section for recent prints.
 
 ### Screenshots
-_(Replace placeholders with actual screenshots)_
 
-![Printer Configuration](#)
-
-![QR Code Input](#)
-
-![Printed Stickers](#)
+![Printer Configuration](/app-screen.png)
 
 ## Troubleshooting
 - Ensure the printer is powered on and connected to the network.
 - Double-check the IP address of the printer.
 - Verify that the selected label format matches the printer's capabilities.
-- If test mode is enabled, disable it to send actual print jobs.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](#) file for more details.
 
-## Contributing
-Feel free to contribute by submitting issues or pull requests to the repository on GitHub.
-
-## Contact
-For support or inquiries, please reach out to [Your Contact Information].
 
