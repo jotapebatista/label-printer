@@ -1,6 +1,7 @@
 {
 	"bundle": {
 		"active": true,
+		"createUpdaterArtifacts": true,
 		"targets": "all",
 		"windows": {
 			"certificateThumbprint": null,
@@ -38,13 +39,10 @@
 		"updater": {
 			"active": true,
 			"dialog": true,
-			"windows": {
-				"installMode": "passive"
-			},
 			"endpoints": [
 				"https://github.com/jotapebatista/label-printer/releases/latest/download/latest.json"
 			],
-			"pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5NTFwVVNSelVnc3Y5QzVGbnpDYTVQek9TL1dhY1o1MFNoc0lGR1AvSHE2Z0FBQkFBQUFBQUFBQUFBQUlBQUFBQXp0YklrWkxWZVlUQ1FyNU45aFVRVnNlMmZrZ0QzMlVjK0hEK2x1aUVCSWVYVjVmNGhhend4endMZnp0eGg0K01SZW9nVCt4eXVxalFNRS9MU3pYclhQcjZkOVB2ZUhqdWVKbm5HNnRsSkxsZk1qaC8wbE1sRk9WOTRHZ1dLV3RQY1ZWaG5sWnJPZEE9Cg=="
+			"pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDU0RUVCM0Q0MURCMTNDRUYKUldUdlBMRWQxTFB1Vks2MGhBTW9Pd1JYaFc0WC83N0pYa29VN2N0MWQvTXFmazdiVGFJS3EvY2QK"
 		}
 	},
 	"app": {
